@@ -1,0 +1,50 @@
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+  top: 20px;
+  width: 10vw;
+}
+
+.abs0 {
+  position: absolute;
+  top: 40px;
+  width: 30vw;
+  left: 15vw;
+}
+.abs1 {
+  left: 25px;
+}
+.abs2 {
+  right: 0px;
+}
+.abs3 {
+  right: 40px;
+}
+.abs4 {
+  right: 70px;
+}
+.abs5 {
+  right: 100px;
+}
+
+.cent {
+  margin-left: 25vw;
+}
+.cent1 {
+  margin-left: 15vw;
+}
+
+.btn .my-cusomized-button {
+  border-color: #fffef2;
+  color: #fffef2;
+  background-color: transparent;
+  border: 1px solid #fffef2;
+}
+
+.fontsize {
+  font-size: 17px;
+  line-height: 2;
+}

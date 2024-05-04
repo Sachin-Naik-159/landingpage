@@ -1,0 +1,23 @@
+.ilblock {
+  display: inline-block;
+  margin-left: 2vw;
+}
+
+@media (max-width: 1025px) {
+  .displ {
+    display: none;
+  }
+  .mlimg {
+    margin-left: 34vw;
+  }
+  .mlline {
+    margin-left: 10vw;
+  }
+}
+@media (min-width: 1025px) {
+  .displ-1 {
+    display: none;
+    padding-left: 20wv;
+    padding-right: 20wv;
+  }
+}
